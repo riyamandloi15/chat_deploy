@@ -17,7 +17,7 @@ The project utilizes various open-source libraries and tools. See the [`requirem
 
 ## Demo
 
-Check out the live demo of the WhatsAppChatAnalzyer App:  [https://karanprasadgupta-whatsappchatanalzyer-main-lrxq8x.streamlit.app/](https://chatdeploy-2po7rmuuugkjydi5s3qtye.streamlit.app/)
+Check out the live demo of the WhatsAppChatAnalzyer App:  [https://chatdeploy-2po7rmuuugkjydi5s3qtye.streamlit.app/](https://chatdeploy-2po7rmuuugkjydi5s3qtye.streamlit.app/)
 
 > *If the website does not load properly, try opening it in incognito mode.*
 
@@ -37,11 +37,11 @@ To get a local copy of this project up and running, follow these steps:
 1. Clone this repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com/karanprasadgupta/WhatsAppChatAnalzyer.git
+   https://github.com/riyamandloi15/chat_deploy.git
    ```
 2. Navigate to the project directory:
    ``` shell
-   cd WhatsAppChatAnalzyer
+   cd chat_deploy
    ```
 3. Install the required dependencies:
    ``` shell
