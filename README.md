@@ -1,12 +1,5 @@
 # WhatsApp Chat Analyzer
 
-![GitHub](https://img.shields.io/github/license/karanprasadgupta/WhatsAppChatAnalzyer)
-![GitHub last commit](https://img.shields.io/github/last-commit/karanprasadgupta/WhatsAppChatAnalzyer)
-
-![WhatsApp Chat Analyzer](./demo.png)
-
-This repository contains the **WhatsApp Chat Analyzer** project, a tool that allows you to analyze and extract insights from WhatsApp chat exports. The project is developed by [Karan Prasad Gupta](https://github.com/karanprasadgupta), [Narayan Jha](https://github.com/kyayaarnarayan), and is written in Python.
-
 ## Table of Contents
 
 - [Introduction](#introduction)
